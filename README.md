@@ -7,7 +7,7 @@
 ### chromedriverのインストール
 
 https://pypi.org/project/chromedriver-binary/#history  
-から、地震のGoogleChromeのバージョンのメージャーバージョンと同じ物を選択し、pipでインストールする
+から、 自身のGoogleChromeのメジャーバージョンと同じ物を選択し、pipでインストールする
 
 `pip install chromedriver-binary==chromedriverのバージョン`
 
